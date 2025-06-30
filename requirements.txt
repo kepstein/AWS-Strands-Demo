@@ -1,0 +1,6 @@
+boto3>=1.34.0
+botocore>=1.34.0
+yfinance>=0.2.18
+strands
+strands-tools
+langfuse>=2.0.0
